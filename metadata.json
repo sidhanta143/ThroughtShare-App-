@@ -1,0 +1,6 @@
+{
+  "name": "File & Folder Transformation Platform",
+  "description": "An all-in-one modern platform to upload, convert, compress, organize, and securely share files and folders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
