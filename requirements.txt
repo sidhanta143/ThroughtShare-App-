@@ -101,14 +101,14 @@ pyflakes==3.4.0
 Pygments==2.20.0
 pyOpenSSL==26.3.0
 pyparsing==3.3.2
-pypiwin32==223
+
 python-dateutil==2.9.0.post0
 python-discovery==1.2.2
 python-dotenv==1.0.1
 python-multipart==0.0.32
 python-slugify==8.0.4
 pyttsx3==2.99
-pywin32==311
+
 PyYAML==6.0.3
 referencing==0.37.0
 regex==2026.5.9
